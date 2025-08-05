@@ -44,7 +44,7 @@ This project is a **React-based dashboard** built as part of a technical test. I
 1. Clone this repository
 
 ```bash
-git clone https://github.com/HN721/fgo24-react-pages.git
+git clone https://github.com/HN721/React-FE.git
 ```
 
 2. Get into the path
