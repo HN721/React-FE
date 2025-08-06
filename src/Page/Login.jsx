@@ -65,7 +65,7 @@ export default function Login() {
       setTimeout(() => {
         setShowSuccess(false);
         // Redirect logic would go here
-        navigate("/");
+        navigate("/dashboard");
       }, 1500);
     } catch (error) {
       console.error("Login error:", error);
