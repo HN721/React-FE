@@ -35,7 +35,7 @@ export default function Product() {
     fetchProduct();
   }, []);
   const handleAdd = () => {
-    navigate("/add");
+    navigate("/dashboard/add");
   };
   const handleDelete = async (id) => {
     const confirmDelete = window.confirm(
